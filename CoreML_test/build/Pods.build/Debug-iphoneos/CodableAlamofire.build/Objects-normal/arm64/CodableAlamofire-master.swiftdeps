@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "063d2b7c5206b57e974069b41af04049"
+build_time: [1521999079, 84191000]
+inputs:
+  "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/CodableAlamofire/Sources/CodableAlamofire/AlamofireDecodableError.swift": [1521566085, 0]
+  "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/CodableAlamofire/Sources/CodableAlamofire/DataRequest+Decodable.swift": [1521566085, 0]

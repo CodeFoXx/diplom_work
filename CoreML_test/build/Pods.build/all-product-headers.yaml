@@ -1,0 +1,729 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/CodableAlamofire/CodableAlamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CodableAlamofire-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/CodableAlamofire/CodableAlamofire.framework/Headers/CodableAlamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CodableAlamofire-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/CodableAlamofire/CodableAlamofire-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "CodableAlamofire.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/CodableAlamofire/Sources/Supporting Files/CodableAlamofire.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/CodableAlamofire/CodableAlamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/CodableAlamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/DITranquillity/DITranquillity.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DIStoryboardBase.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/DITranquillity/Sources/Storyboard/iOS-tvOS/DIStoryboardBase.h"
+        },
+        {
+          'type': 'file',
+          'name': "DITranquillity-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/DITranquillity/DITranquillity.framework/Headers/DITranquillity-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DITranquillity-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/DITranquillity/DITranquillity-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DITranquillity.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/DITranquillity/Sources/DITranquillity.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/DITranquillity/DITranquillity.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/DITranquillity.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Localize-Swift/Localize_Swift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Localize-Swift-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/Localize-Swift/Localize-Swift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Localize_Swift-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Localize-Swift/Localize_Swift.framework/Headers/Localize_Swift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Localize_Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Localize-Swift/Sources/Localize_Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Localize-Swift/Localize_Swift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/Localize-Swift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/ObjectMapper/ObjectMapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ObjectMapper-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ObjectMapper-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/ObjectMapper/ObjectMapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/ObjectMapper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Pods_CoreML_test.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-CoreML_test-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/Pods-CoreML_test/Pods-CoreML_test-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_CoreML_test-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Pods_CoreML_test.framework/Headers/Pods_CoreML_test-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/Pods_CoreML_test.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/Pods-CoreML_test.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxAlamofire/RxAlamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RxAlamofire-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxAlamofire/RxAlamofire.framework/Headers/RxAlamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RxAlamofire-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/RxAlamofire/RxAlamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxAlamofire/RxAlamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/RxAlamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxSwift/RxSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RxSwift-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RxSwift-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/RxSwift/RxSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/RxSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressAnimatedView.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVRadialGradientLayer.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/SVProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SwiftHash/SwiftHash.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftHash-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SwiftHash/SwiftHash.framework/Headers/SwiftHash-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftHash-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/SwiftHash/SwiftHash-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/SwiftHash/SwiftHash.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/SwiftHash.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "G8Constants.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8Constants.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8RecognitionOperation.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8RecognitionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8RecognizedBlock.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8RecognizedBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8Tesseract.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8Tesseract.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8TesseractDelegate.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8TesseractDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "G8TesseractParameters.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/G8TesseractParameters.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCR-Swift.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Headers/TesseractOCR-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCR.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/TesseractOCR.h"
+        },
+        {
+          'type': 'file',
+          'name': "TesseractOCRiOS-umbrella.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/Target Support Files/TesseractOCRiOS/TesseractOCRiOS-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+G8Filters.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/UIImage+G8Filters.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Pods.build/Debug-iphoneos/TesseractOCRiOS.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/build/Debug-iphoneos/TesseractOCRiOS/TesseractOCR.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "allheaders.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/allheaders.h"
+        },
+        {
+          'type': 'file',
+          'name': "alltypes.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/alltypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "apitypes.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/apitypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "array.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/array.h"
+        },
+        {
+          'type': 'file',
+          'name': "arrayaccess.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/arrayaccess.h"
+        },
+        {
+          'type': 'file',
+          'name': "baseapi.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/baseapi.h"
+        },
+        {
+          'type': 'file',
+          'name': "basedir.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/basedir.h"
+        },
+        {
+          'type': 'file',
+          'name': "bbuffer.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bbuffer.h"
+        },
+        {
+          'type': 'file',
+          'name': "bilateral.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bilateral.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmf.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bmf.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmfdata.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bmfdata.h"
+        },
+        {
+          'type': 'file',
+          'name': "bmp.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/bmp.h"
+        },
+        {
+          'type': 'file',
+          'name': "capi.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/capi.h"
+        },
+        {
+          'type': 'file',
+          'name': "ccbord.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/ccbord.h"
+        },
+        {
+          'type': 'file',
+          'name': "dewarp.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/dewarp.h"
+        },
+        {
+          'type': 'file',
+          'name': "endianness.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/endianness.h"
+        },
+        {
+          'type': 'file',
+          'name': "environ.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/environ.h"
+        },
+        {
+          'type': 'file',
+          'name': "errcode.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/errcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "fileerr.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/fileerr.h"
+        },
+        {
+          'type': 'file',
+          'name': "genericvector.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/genericvector.h"
+        },
+        {
+          'type': 'file',
+          'name': "gplot.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/gplot.h"
+        },
+        {
+          'type': 'file',
+          'name': "heap.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/heap.h"
+        },
+        {
+          'type': 'file',
+          'name': "helpers.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/helpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "host.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/host.h"
+        },
+        {
+          'type': 'file',
+          'name': "imageio.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/imageio.h"
+        },
+        {
+          'type': 'file',
+          'name': "jbclass.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/jbclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "jconfig.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/jconfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "jerror.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/jerror.h"
+        },
+        {
+          'type': 'file',
+          'name': "jmorecfg.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/jmorecfg.h"
+        },
+        {
+          'type': 'file',
+          'name': "jpeglib.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/jpeglib.h"
+        },
+        {
+          'type': 'file',
+          'name': "leptwin.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/leptwin.h"
+        },
+        {
+          'type': 'file',
+          'name': "list.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/list.h"
+        },
+        {
+          'type': 'file',
+          'name': "ltrresultiterator.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ltrresultiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "memry.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/memry.h"
+        },
+        {
+          'type': 'file',
+          'name': "morph.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/morph.h"
+        },
+        {
+          'type': 'file',
+          'name': "ndminx.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ndminx.h"
+        },
+        {
+          'type': 'file',
+          'name': "ocrclass.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/ocrclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "osdetect.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/osdetect.h"
+        },
+        {
+          'type': 'file',
+          'name': "pageiterator.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/pageiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "params.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/params.h"
+        },
+        {
+          'type': 'file',
+          'name': "pix.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/pix.h"
+        },
+        {
+          'type': 'file',
+          'name': "platform.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/platform.h"
+        },
+        {
+          'type': 'file',
+          'name': "png.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/png.h"
+        },
+        {
+          'type': 'file',
+          'name': "pngconf.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/pngconf.h"
+        },
+        {
+          'type': 'file',
+          'name': "pnglibconf.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/pnglibconf.h"
+        },
+        {
+          'type': 'file',
+          'name': "ptra.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/ptra.h"
+        },
+        {
+          'type': 'file',
+          'name': "publictypes.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/publictypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "queue.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/queue.h"
+        },
+        {
+          'type': 'file',
+          'name': "readbarcode.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/readbarcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "recog.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/recog.h"
+        },
+        {
+          'type': 'file',
+          'name': "regutils.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/regutils.h"
+        },
+        {
+          'type': 'file',
+          'name': "renderer.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/renderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "resultiterator.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/resultiterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "serialis.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/serialis.h"
+        },
+        {
+          'type': 'file',
+          'name': "stack.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/stack.h"
+        },
+        {
+          'type': 'file',
+          'name': "stringcode.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/stringcode.h"
+        },
+        {
+          'type': 'file',
+          'name': "strngs.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/strngs.h"
+        },
+        {
+          'type': 'file',
+          'name': "sudoku.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/sudoku.h"
+        },
+        {
+          'type': 'file',
+          'name': "tesscallback.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/tesscallback.h"
+        },
+        {
+          'type': 'file',
+          'name': "thresholder.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/thresholder.h"
+        },
+        {
+          'type': 'file',
+          'name': "tiff.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tiff.h"
+        },
+        {
+          'type': 'file',
+          'name': "tiffconf.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tiffconf.h"
+        },
+        {
+          'type': 'file',
+          'name': "tiffio.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tiffio.h"
+        },
+        {
+          'type': 'file',
+          'name': "tiffvers.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tiffvers.h"
+        },
+        {
+          'type': 'file',
+          'name': "unichar.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unichar.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicharmap.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicharmap.h"
+        },
+        {
+          'type': 'file',
+          'name': "unicharset.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/tesseract/unicharset.h"
+        },
+        {
+          'type': 'file',
+          'name': "watershed.h",
+          'external-contents': "/Users/Polina/XcodeApp/diplom_prj/CoreML_test/Pods/TesseractOCRiOS/TesseractOCR/include/leptonica/watershed.h"
+        }
+      ]
+    }
+  ]
+}
